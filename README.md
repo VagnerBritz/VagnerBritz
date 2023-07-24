@@ -4,12 +4,17 @@
 
 <p>- Desenvolvedor Web Full Stack</p>
 <p>- Atualmente estudando Clean Architecture com C#</p>
-
+<!--https://github.com/devicons/devicon/tree/master/icons/!-->
 <h2>Principais Stacks</h2>
 <div style="display: inline_block"><br>
-  <img align="center" alt="csharp" title="Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/> 
-  <img align="center" alt="javascript" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="node" title="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>  
+
+<a href="https://github.com/VagnerBritz/SalesWeb"> 
+  <img align="center" alt="csharp" title="Csharp - Clique para acessar um repositório" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
+</a>
+<a href="https://github.com/VagnerBritz/Desafio-Tecnico-XP">
+  <img align="center" alt="javascript" title="Javascript - Clique para acessar um repositório" height="30" width="40"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="node" title="Node.js - Clique para acessar um repositório" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>  
+</a>
   <img align="center" alt="react" title="React.js"height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
   <img align="center" alt="typescript" title="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
 </div>
@@ -21,7 +26,9 @@
   <img align="center" alt="Css" title="CSS3" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="docker" title="Docker containners" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="MySQL" title="MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="MongoDb" title="MongoDb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />  
+  <img align="center" alt="MongoDb" title="MongoDb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="Git" title="Git- versionamento" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
+  
 </div>
 <hr/>
   <div align="center">
